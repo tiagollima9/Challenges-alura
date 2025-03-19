@@ -44,4 +44,4 @@ function sortear() {
 
 ## Autores
 
-- [@michelsandre](https://www.github.com/michelsandre)
+- tiago lima
